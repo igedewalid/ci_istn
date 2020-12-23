@@ -4,15 +4,13 @@ echo view('layout/header');
 ?>
 
 
-
-
-<div id="banner-area" class="banner-area" style="background-image:url(images/proker/proker.jpeg)">
+<div id="banner-area" class="banner-area" style="background-image:url(images/banner/ihritb.jpeg)">
     <div class="banner-text">
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
                     <div class="banner-heading">
-                        <h1 class="banner-title">PROGRAM KERJA IHC</h1>
+                        <h1 class="banner-title">PRESTASI</h1>
                         <ol class="breadcrumb">
 
                         </ol>
@@ -31,12 +29,12 @@ echo view('layout/header');
             <div class="col-md-4">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <img class="img-responsive" src="images/proker/ligahoki.jpeg" alt="">
+                        <img class="img-responsive" src="images/prestasi/ihritb.jpeg" alt="">
                     </div>
-                    <div class="ts-service-box-img pull-left">
 
-                        <h3 class="service-box-title"><a href="service-single.html">LIGA HOKI</a></h3>
-                        <p>ACARA TAHUNAN DARI PROKER IHC INI BERTUJUAN UNTUK MENGENALKAN OLAHRAGA HOKI MAHASISWA YANG ADA DI ISTN DAN JUGA UNTUK MENJALIS TALI PERSAUDARAAN ANTAR MAHASISWA ISTN </p>
+                    <div class="ts-service-box-img pull-left">
+                        <h3 class="service-box-title"><a href="service-single.html">IHR ITB </a></h3>
+                        <p>PADA KEJUARAAN INI ALHAMDULILLAH KITA MERAIH JUARA 3</p>
                         <p><a class="learn-more" href="service-single.html"><i class="fa fa-caret-right"></i> Learn More</a></p>
                     </div>
                 </div><!-- Service1 end -->
@@ -45,12 +43,12 @@ echo view('layout/header');
             <div class="col-md-4">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <img class="img-responsive" src="images/proker/diklat.jpeg" alt="">
+                        <img class="img-responsive" src="images/prestasi/fungamesup.jpeg" alt="">
                     </div>
-                    <div class="ts-service-box-img pull-left">
 
-                        <h3 class="service-box-title"><a href="service-single.html">DIKLAT</a></h3>
-                        <p>PROKER INI BERTUJUAN UNTUK MENCARI KADER BARU UNTUK REGENERASI IHC AGAR HC BISA TERUS BERJALAN DENGAN ADA NYA REGENERASI BARU </p>
+                    <div class="ts-service-box-img pull-left">
+                        <h3 class="service-box-title"><a href="service-single.html">FUN GAMES UP</a></h3>
+                        <p>PADA KEJUARAAN INI ALHAMDULILLAH KITA MERAIH JUARA 3</p>
                         <p><a class="learn-more" href="service-single.html"><i class="fa fa-caret-right"></i> Learn More</a></p>
                     </div>
                 </div><!-- Service2 end -->
@@ -59,12 +57,12 @@ echo view('layout/header');
             <div class="col-md-4">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <img class="img-responsive" src="images/proker/service3.jpg" alt="">
+                        <img class="img-responsive" src="images/prestasi/fungamestei.jpeg" alt="">
                     </div>
                     <div class="ts-service-box-img pull-left">
 
-                        <h3 class="service-box-title"><a href="service-single.html">BUKBER</a></h3>
-                        <p>PROKER BUKBER INI PASTI DI ADAKAN PADA SAAT BULAN PUASA DAN JUGA BUKBER INI KITA JADIKAN AJANG UNTUK BER KUMPUL NYA SEMUA ANGGOTA IH MULAI DARI YANG MASIH AKTIF MAUPUN YANG TIDAK</p>
+                        <h3 class="service-box-title"><a href="service-single.html">FUN GAMES STEI</a></h3>
+                        <p>PADA KEJUARAAN INI ALHAMDULILLAH KITA MERAIH JUARA 2</p>
                         <p><a class="learn-more" href="service-single.html"><i class="fa fa-caret-right"></i> Learn More</a></p>
                     </div>
                 </div><!-- Service3 end -->
@@ -75,12 +73,12 @@ echo view('layout/header');
             <div class="col-md-4">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <img class="img-responsive" src="images/proker/ultah.jpeg" alt="">
+                        <img class="img-responsive" src="images/prestasi/service4.jpg" alt="">
                     </div>
                     <div class="ts-service-box-img pull-left">
 
-                        <h3 class="service-box-title"><a href="service-single.html">ULTAH</a></h3>
-                        <p>PRKER ULTAH INI KITA ADAKAN DENGAN TUJUAN AJANG BERKUMPUL NYA PARA NGGOTA SEKALIGUS SYUKURAN ATAS BANYAK PENCAIPAIAN PADA CLUB INI </p>
+                        <h3 class="service-box-title"><a href="service-single.html">cooming soon</a></h3>
+                        <p> </p>
                         <p><a class="learn-more" href="service-single.html"><i class="fa fa-caret-right"></i> Learn More</a></p>
                     </div>
                 </div><!-- Service4 end -->
@@ -89,12 +87,12 @@ echo view('layout/header');
             <div class="col-md-4">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <img class="img-responsive" src="images/proker/service5.jpg" alt="">
+                        <img class="img-responsive" src="images/prestasi/service5.jpg" alt="">
                     </div>
                     <div class="ts-service-box-img pull-left">
 
-                        <h3 class="service-box-title"><a href="service-single.html">MUBES</a></h3>
-                        <p>MUBE ADALAAH SALAH SATU PROKER IHC YANG BERTUJUAN UNTUK MENGEVALUSAI KINERJA PENGURUS PADA PRIODE TSB DAN MEMBUAT PLANNING BARU UNTUK IHC YG LEBIH BAIK DI KEPENGURUSAN BERIKUT NYA </p>
+                        <h3 class="service-box-title"><a href="service-single.html">coming soon</a></h3>
+                        <p> </p>
                         <p><a class="learn-more" href="service-single.html"><i class="fa fa-caret-right"></i> Learn More</a></p>
                     </div>
                 </div><!-- Service5 end -->
@@ -103,12 +101,12 @@ echo view('layout/header');
             <div class="col-md-4">
                 <div class="ts-service-box">
                     <div class="ts-service-image-wrapper">
-                        <img class="img-responsive" src="images/proker/ihr16.jpeg" alt="">
+                        <img class="img-responsive" src="images/prestasi/service6.jpg" alt="">
                     </div>
                     <div class="ts-service-box-img pull-left">
 
-                        <h3 class="service-box-title"><a href="service-single.html">IHR</a></h3>
-                        <p>IHR ADALAH ACARA TERBESAR YANG DI BUAT IHC YANG BERTUJUAN UNTUK MEMPERKENALKAN OLAHRAGA HOKI DI DALAM MAUPUN DI LUAR KAMPUS DAN JUGA SEKALIGUS UNTUK BERSILATURAHMI KEPADA KAMPUS" YANG MENDAFTAR PADA KEJURANAAN IHC</p>
+                        <h3 class="service-box-title"><a href="service-single.html">cooming soon</a></h3>
+                        <p> </p>
                         <p><a class="learn-more" href="service-single.html"><i class="fa fa-caret-right"></i> Learn More</a></p>
                     </div>
                 </div><!-- Service6 end -->
@@ -117,7 +115,6 @@ echo view('layout/header');
         </div><!-- Main row end -->
     </div><!-- Conatiner end -->
 </section><!-- Main container end -->
-
 
 
 

@@ -7,7 +7,7 @@ class Pages extends BaseController
     public function home()
     {
 
-        echo view('pages/about');
+        echo view('pages/home');
     }
 
     public function proker()
@@ -16,4 +16,18 @@ class Pages extends BaseController
     }
     //--------------------------------------------------------------------
 
+    public function club()
+    {
+        echo view('pages/club');
+    }
+
+    public function prestasi()
+    {
+        echo view('pages/prestasi');
+    }
+
+    public function kontak()
+    {
+        echo view('pages/kontak');
+    }
 }
